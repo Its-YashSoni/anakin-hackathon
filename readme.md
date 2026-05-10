@@ -281,7 +281,7 @@ ollama serve
 Run:
 
 ```bash id="y7i99n"
-streamlit run event_app.py
+streamlit run main.py
 ```
 
 ---
