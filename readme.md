@@ -389,11 +389,8 @@ Currently integrated:
 # 🚀 Full Run Pipeline
 
 ```bash id="32m0mo"
-python anakin_scrape.py
-
 python scrape.py
-
-streamlit run event_app.py
+streamlit run main.py
 ```
 
 ---
